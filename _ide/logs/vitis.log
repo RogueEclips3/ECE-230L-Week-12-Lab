@@ -1,0 +1,24 @@
+09:11:00 INFO  : updated workspace path: C:\Users\Joshua\Documents\College\ECE230L\Week_12_Lab_Files
+09:11:00 INFO  : Marking the target connection as default Local
+09:11:00 INFO  : Marking the target connection as default Linux Agent
+09:11:00 INFO  : Marking the target connection as default XRTServer
+09:11:00 INFO  : Marking the target connection as default LinuxEmulation
+09:11:00 INFO  : Marking the target connection as default QEMU
+09:11:00 INFO  : created .gitignore file for the project C:\Users\Joshua\Documents\College\ECE230L\Week_12_Lab_Files
+09:11:38 INFO  : [INFO]: Initializing repositories
+09:11:38 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:11:38 INFO  : Successfully created repository data at C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua1847029311566240743
+09:11:38 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua8957735847488770672 -r C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua1847029311566240743\.repo.yaml
+09:11:39 INFO  : Embedded Template List generated successfully
+09:11:39 INFO  : cmd.exe, /C, empyro.bat repo -st   D:\Xilinx\2025.1\Vitis\data\embeddedsw
+09:11:43 INFO  : [INFO]: Initializing repositories
+09:11:43 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:11:43 INFO  : Successfully created repository data at C:\Users\Joshua\Documents\College\ECE230L\Week_12_Lab_Files/_ide\.wsdata
+09:11:43 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua6791292541711200750 -r C:\Users\Joshua\Documents\College\ECE230L\Week_12_Lab_Files\_ide\.wsdata\.repo.yaml
+09:11:44 INFO  : Embedded Template List generated successfully
+09:11:44 INFO  : cmd.exe, /C, empyro.bat repo -st  D:\Xilinx\2025.1\Vitis\data\embeddedsw
+09:11:47 INFO  : [INFO]: Initializing repositories
+09:11:47 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:11:47 INFO  : Successfully created repository data at C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua3219501897316050390
+09:11:47 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua2953909316787017305 -r C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua3219501897316050390\.repo.yaml
+09:11:48 INFO  : Embedded Template List generated successfully
